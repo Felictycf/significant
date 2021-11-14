@@ -1,9 +1,9 @@
 ## Linu快捷键
 
-<span id =" anchor">ed的作用</span>
+
 
 1. 进去/根目录
-2. [ed **你要去的路劲](#anchor)
+2. [ed 你要去的路劲](#anchor)
 3. vim 有三个模式，一般模式，编辑模式，命令行模式
 4. 创建Hello.java ==>  vim Hello.java （可以使用tap键进行智能补全）
 5. i，a是在一般模式进入编辑模式
@@ -30,4 +30,5 @@
 20. groupadd -g 用户组 用户名   （增加用户时直接加上组，把user增加到该组）
 20. usermod - g 用户组 用户名     该变这个用户的组到该组
 20. shift + g 直接到最后一排
+20. <span id =" anchor">ed的作用</span>
 
