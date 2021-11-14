@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ..\新建文件夹
+---
+
 ## Linu快捷键
 
 [跳转指定位置](#divtop)
@@ -56,7 +60,7 @@
 
 27. shift + g 直接到最后一排
 
-    
+    ![image-20211115000844877](https://raw.githubusercontent.com/Felictycf/images/main/img/image-20211115000844877.png)
     
     <a name="divtop"> 我是目标位置 </a>
 

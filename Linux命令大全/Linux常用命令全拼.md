@@ -97,3 +97,5 @@
 47. dpkg：Debian package manager
 
 48. apt：Advanced package tool（Debian或基于Debian的发行版中提供）
+
+48. ![image-20211115001227394](https://raw.githubusercontent.com/Felictycf/images/main/img/image-20211115001227394.png)
