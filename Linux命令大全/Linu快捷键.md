@@ -1,7 +1,9 @@
 ## Linu快捷键
 
+<span id =" anchor">ed的作用</span>
+
 1. 进去/根目录
-2. ed **你要去的路劲
+2. [ed **你要去的路劲](#anchor)
 3. vim 有三个模式，一般模式，编辑模式，命令行模式
 4. 创建Hello.java ==>  vim Hello.java （可以使用tap键进行智能补全）
 5. i，a是在一般模式进入编辑模式
@@ -17,6 +19,7 @@
 15. reboot重启
 16. useradd   用户名    增加用户  【如果没有指定组，会默认的把这个用户设置为这个组，且组名就是用户名】
 17. logout退出登陆
+17. [ed **你要去的路劲](#anchor)
 18. su  root         切换用户
 19. passwd  要改密的用户名          加密
 20. pwd（present working directory）显示当前用户所在的目录
