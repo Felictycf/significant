@@ -98,4 +98,4 @@
 
 48. apt：Advanced package tool（Debian或基于Debian的发行版中提供）
 
-48. ![image-20211115001227394](https://raw.githubusercontent.com/Felictycf/images/main/img/image-20211115001227394.png)
+https://www.tooopen.com/view/2315860.html
