@@ -1,3 +1,5 @@
+[TOC]
+
 在《[Java堆内存是线程共享的！面试官：你确定吗？](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI3NzE0NjcwMg%3D%3D%26mid%3D2650126638%26idx%3D1%26sn%3D5fe5146a66e14d9d39ff464f60ac58c7%26chksm%3Df36ba40fc41c2d19359e1db1e3340fd19b549e441c99a15b33722b79277b3daf9f180b2e7bb9%26scene%3D21%23wechat_redirect)》文章中，我们也介绍过，一个Java对象在堆上分配的时候，主要是在Eden区上，如果启动了TLAB的话会优先在TLAB上分配，少数情况下也可能会直接分配在老年代中，分配规则并不是百分之百固定的，这取决于当前使用的是哪一种垃圾收集器，还有虚拟机中与内存有关的参数的设置。
 
 但是一般情况下是遵循以下原则的：
